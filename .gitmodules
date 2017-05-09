@@ -1,0 +1,6 @@
+[submodule "microsoft-cognitive-face-node"]
+	path = microsoft-cognitive-face-node
+	url = https://github.com/ericsk/microsoft-cognitive-face-node
+[submodule "microsoft-cognitive-speech-node"]
+	path = microsoft-cognitive-speech-node
+	url = https://github.com/ericsk/microsoft-cognitive-speech-node
